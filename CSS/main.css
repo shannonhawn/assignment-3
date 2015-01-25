@@ -37,10 +37,19 @@ dt {
 
 em {
   color:red;
+  font-style: italic;
 }
 
 ul {
   list-style-type:lower-roman;
+}
+
+ol {
+  list-style-type:underline;
+}
+
+.mars {
+  font-size: 1.5rem;
 }
 
 ol {
