@@ -37,7 +37,7 @@ dt {
 
 em {
   color:red;
-  font-style: italic;
+  font-style: normal;
 }
 
 ul {
@@ -49,7 +49,18 @@ ol {
 }
 
 .mars {
-  font-size: 1.5rem;
+  font-size: 1rem;
+  font-style:normal;
+}
+
+.quote {
+  font-size: 5rem;
+  font-style:bold;
+}
+
+.large{
+  font-size:2rem;
+  font-weight:bold;
 }
 
 ol {
