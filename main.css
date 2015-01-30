@@ -19,6 +19,7 @@ q{
 li {
   font-weight: bold;
 }
+
 a{
   color:brown;
 }
@@ -55,7 +56,6 @@ ol {
 
 .quote {
   font-size: 5rem;
-  font-style:bold;
 }
 
 .large{
